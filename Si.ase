@@ -1,0 +1,10 @@
+dict(charge=0.0,
+     chksymbreak=0,
+     ecut=136.05693012183622,
+     kpts=[4, 4, 4],
+     nbands=8,
+     pps='fhi',
+     raw=None,
+     smearing=None,
+     toldfe=0.01,
+     xc='LDA')
