@@ -1,6 +1,6 @@
 # DFTSimulation
 
-![Reaction Energy Graph](reactionenergy.png)
+![Reaction Energy Graph](reactionenergy.PNG)
 
 ## Author
 Sravan Jayanthi
