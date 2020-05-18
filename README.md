@@ -10,7 +10,7 @@ The simulation is designed to study the quantum mechanical phenomenon of atomic 
 
 
 ## Description
-This project contains the three scripts, outputted csv, reaction spreadsheet, graphs, and the bash script configuration for the Density Functional Theory simulation. The main library utilized is the ASE (Atomic Simulation Environment).
+This project contains the three scripts, outputted csv, reaction spreadsheet, graphs, and the bash script configuration for the Density Functional Theory simulation. The main library utilized is the ASE (Atomic Simulation Environment) and calculators used are EMT and SPARC.
 
 *project.py- script for sodium chloride reaction*
 
